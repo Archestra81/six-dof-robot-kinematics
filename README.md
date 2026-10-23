@@ -211,10 +211,3 @@ This is not meant as a production-grade real-time collision engine; it prioritiz
 
 ---
 
-## License & contributions
-
-You can choose any license you prefer (e.g., MIT, Apache 2.0) and add a `LICENSE` file.
-
-For collaboration:
-- Use pull requests on a Git repository.
-- Add examples: different robots, obstacle layouts, trajectories.
